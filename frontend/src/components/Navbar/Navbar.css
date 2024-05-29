@@ -37,3 +37,6 @@
 .navbar button:hover{
     background-color: #ff4f2f;
 }
+
+git config --global user.email "archanadhuria5@gmail.com"
+git config --global user.name "archana-dhuria"
